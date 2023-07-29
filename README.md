@@ -6,4 +6,6 @@ Basics of spring mvc
 2. @RequestMapping
 3. HTTP Request 
 4. HTTP Response
-5. HttpMessageConverter
+5. RequestMappingHandlerAdapter -> HttpMessageConverter
+   - ArgumentResolver
+   - ReturnValueHandler
